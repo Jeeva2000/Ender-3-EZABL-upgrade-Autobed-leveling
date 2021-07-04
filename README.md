@@ -1,3 +1,6 @@
+Note: All the changes were made for ender 3 . kindly make changes only in custom probe offsets based on your print bed
+Disclaimer: Updating this firmware is completely on your own risk.
+
 # Unified 2.0 Firmware
 
 Unified Firmware 2.0 is the latest easy to use firmware for select 3D printers and boards from TH3D Studio. Both 8 bit and 32 bit based machines/boards are supported thanks to being built on Marlin 2.0.
